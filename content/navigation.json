@@ -508,7 +508,8 @@
               "pages": [
                 "payments/api-reference/2026-02-18/post-v1-webhooks-binance-pay",
                 "payments/api-reference/2026-02-18/post-v1-webhooks-binance-pay-onchain",
-                "payments/api-reference/2026-02-18/post-v1-webhooks-bybit-pay"
+                "payments/api-reference/2026-02-18/post-v1-webhooks-bybit-pay",
+                "payments/api-reference/2026-02-18/post-v1-webhooks-crypto-com-pay"
               ]
             }
           ]
@@ -548,7 +549,8 @@
               "pages": [
                 "payments/api-reference/2026-02-19.preview/post-v1-webhooks-binance-pay",
                 "payments/api-reference/2026-02-19.preview/post-v1-webhooks-binance-pay-onchain",
-                "payments/api-reference/2026-02-19.preview/post-v1-webhooks-bybit-pay"
+                "payments/api-reference/2026-02-19.preview/post-v1-webhooks-bybit-pay",
+                "payments/api-reference/2026-02-19.preview/post-v1-webhooks-crypto-com-pay"
               ]
             }
           ]
